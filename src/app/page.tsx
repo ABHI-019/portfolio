@@ -24,7 +24,7 @@ export default function Home() {
             </div>
             <div className="space-y-4 md:space-y-6">
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-gray-900 dark:text-white">
-                Hi, I'm <span className="text-indigo-600 dark:text-indigo-400">Abhishek Raj</span>
+                Hi, I&apos;m <span className="text-indigo-600 dark:text-indigo-400">Abhishek Raj</span>
               </h1>
               <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto px-4">
                 Backend Developer with a passion for DevOps and Cloud technologies
@@ -90,10 +90,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white sm:text-4xl">
-              Let's Work Together
+              Let&apos;s Work Together
             </h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
-              Have a project in mind? I'm always open to discussing new opportunities and challenges.
+              Have a project in mind? I&apos;m always open to discussing new opportunities and challenges.
             </p>
           </div>
           <ContactForm />

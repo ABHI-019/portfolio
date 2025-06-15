@@ -51,7 +51,7 @@ export function Testimonials() {
               Testimonials Coming Soon
             </h3>
             <p className="text-gray-600 dark:text-gray-300">
-              As I continue to work on exciting projects and collaborate with clients, I'll be adding their feedback and testimonials here. Check back soon to see what people are saying about working with me!
+              As I continue to work on exciting projects and collaborate with clients, I&apos;ll be adding their feedback and testimonials here. Check back soon to see what people are saying about working with me!
             </p>
             <div className="pt-4">
               <a

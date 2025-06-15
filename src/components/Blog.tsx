@@ -51,7 +51,7 @@ export function Blog() {
               Blog Posts Coming Soon
             </h3>
             <p className="text-gray-600 dark:text-gray-300">
-              I'm currently working on creating valuable content about web development, programming best practices, and technical tutorials. Stay tuned for updates!
+              I&apos;m currently working on creating valuable content about web development, programming best practices, and technical tutorials. Stay tuned for updates!
             </p>
             <div className="pt-4">
               <a

@@ -23,11 +23,11 @@ export function About() {
             About Me
           </h2>
           <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
-            I'm a Computer Science undergraduate with a strong foundation in Data Structures and Algorithms, having solved over 600 problems across platforms. I specialize in backend development and enjoy building scalable, efficient systems using modern technologies and cloud platforms like AWS.
+            I&apos;m a Computer Science undergraduate with a strong foundation in Data Structures and Algorithms, having solved over 600 problems across platforms. I specialize in backend development and enjoy building scalable, efficient systems using modern technologies and cloud platforms like AWS.
             <br /><br />
-            I have hands-on experience with full-stack application development, working with technologies such as Node.js, React, MongoDB, PostgreSQL, and Docker. I'm deeply interested in DevOps, infrastructure as code, and cloud-native architectures.
+            I have hands-on experience with full-stack application development, working with technologies such as Node.js, React, MongoDB, PostgreSQL, and Docker. I&apos;m deeply interested in DevOps, infrastructure as code, and cloud-native architectures.
             <br /><br />
-            I'm also passionate about contributing to tech communities, continuously learning, and building impactful software that solves real-world problems.
+            I&apos;m also passionate about contributing to tech communities, continuously learning, and building impactful software that solves real-world problems.
           </p>
 
         </motion.div>
