@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Environment variables
+.env.local
+.env.*.local
+
+# EmailJS Configuration
+NEXT_PUBLIC_EMAILJS_SERVICE_ID=service_9tnml9g
+NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=template_nyejdkf
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=n4xkMB2jO1m32NNoQ
